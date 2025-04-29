@@ -1,0 +1,1 @@
+A simple and interactive shopping cart built using HTML, CSS, and JavaScript (DOM). Users can add or remove products, and the total price updates in real-time. This project is ideal for beginners to learn DOM manipulation and basic web development
